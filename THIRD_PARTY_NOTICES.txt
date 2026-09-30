@@ -2,6 +2,18 @@ Third-party notices for 我的群友难鱼
 
 Runtime dependencies retain their original licenses.
 
+========================================================================
+Project audio assets
+========================================================================
+audio/bgm.mp3: background music supplied by the user for this project.
+This notice does not identify its author or assert an open-source license.
+
+The 76 character voice clips use synthetic speech. They are not recordings
+of the character's real-life subject and do not clone that person's voice.
+
+Interaction sound effects are original procedural Web Audio synthesis made
+for this project. No downloaded sound-effect samples are used.
+
 
 ========================================================================
 three 0.180.0

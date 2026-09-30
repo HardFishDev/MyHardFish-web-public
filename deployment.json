@@ -1,7 +1,12 @@
 {
-  "version": "1.2.0",
-  "sourceCommit": "703a6a9e4112ecd0d669f1d836d2b2ae1b5eb0ed",
+  "version": "1.3.0",
+  "sourceCommit": "c94f810c727a088f0839e35f02c2cdd97ef2ff55",
   "files": [
+    {
+      "path": "assets/App-D8wecymW.js",
+      "bytes": 402791,
+      "sha256": "589c4c4a7c9d19da3f8666d2bee74fe50e869e791ac1e7705b0b367cbd5495f9"
+    },
     {
       "path": "assets/avatar.png",
       "bytes": 48315,
@@ -13,24 +18,24 @@
       "sha256": "14a86e9b2dc7971e246e962d1bace2814b36733184aa1f6afeba6c176f830277"
     },
     {
-      "path": "assets/icons-DRwPGjFI.js",
-      "bytes": 179085,
-      "sha256": "d5b6a117f2d794f27c79ab92413dfdce8397b31ee92ee3437e3b7bb429938e73"
+      "path": "assets/icons-CtLK2gyQ.js",
+      "bytes": 181311,
+      "sha256": "9b609d2b7a15fad963284a5e2c25aa25793a54db22766b8b6b6ccab9bc4ddea7"
     },
     {
-      "path": "assets/index-DAx1cH7Q.js",
-      "bytes": 606565,
-      "sha256": "6adffed6dabd0a8fd44ec8c0ef5e4c8b2e772237a71cba96851d911e565dff46"
+      "path": "assets/index-BGe06wC2.css",
+      "bytes": 86072,
+      "sha256": "73b33f76af6a9fc1ea1b5aa3d33c2af243304b6d7ab9bf6c40b151912be6c893"
     },
     {
-      "path": "assets/index-g-FZSSRX.css",
-      "bytes": 78772,
-      "sha256": "063b68a9ce4917f6408739fe8f044afae24b1f5a7137e2e78cb567e480e4031c"
+      "path": "assets/index-BpkiqT4Y.js",
+      "bytes": 220487,
+      "sha256": "11753974714e559a256aa2ebe2b4f2585409dd8314b345dd5c516ac19190bd41"
     },
     {
-      "path": "assets/react-D85RQCrh.js",
+      "path": "assets/react-C0u2Iuo1.js",
       "bytes": 3971,
-      "sha256": "5753701442c8e1000e2bd9b584d7c9c3c11f97d469f12d2215d3c997f24ad46d"
+      "sha256": "8915bb00985a64b8587caa81e97ffb95d13a19403cf8cc38df1c92d99bb7ba07"
     },
     {
       "path": "assets/reference.jpg",
@@ -81,6 +86,11 @@
       "path": "audio/battery.mp3",
       "bytes": 14832,
       "sha256": "eefc7812823877da5ecbc3be9016ce64425c5d6e21ba82b7c02264b1f417dc93"
+    },
+    {
+      "path": "audio/bgm.mp3",
+      "bytes": 3370278,
+      "sha256": "5b3becd4926e4d3c43e7c838b91ca050b7d75fe8b2bf4584e49057534c76e241"
     },
     {
       "path": "audio/blackheart.mp3",
@@ -449,13 +459,13 @@
     },
     {
       "path": "index.html",
-      "bytes": 974,
-      "sha256": "3bcd44fe7a90ce2f2bfceb765f6aad6d628410aa0955f6704c3adfec41440c7d"
+      "bytes": 3742,
+      "sha256": "5e74ed8ded9acc3b26e2baae3e3d6b7052e069684b5244aef440e53655eece3a"
     },
     {
       "path": "THIRD_PARTY_NOTICES.txt",
-      "bytes": 7573,
-      "sha256": "742521d70f30f5ec620e4a07c3bd7a9ea08e8bf4c9585198bbc7006e4bd43727"
+      "bytes": 8177,
+      "sha256": "5c5dd7a89c4ed1dba5da441aa62046d4f08e0e2c00d85770455e3937fe13633c"
     }
   ]
 }
