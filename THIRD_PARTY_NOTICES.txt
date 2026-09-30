@@ -5,8 +5,47 @@ Runtime dependencies retain their original licenses.
 ========================================================================
 Project audio assets
 ========================================================================
-audio/bgm.mp3: background music supplied by the user for this project.
-This notice does not identify its author or assert an open-source license.
+Scene background music: Kevin MacLeod (incompetech.com).
+Licensed under Creative Commons: By Attribution 4.0 License.
+https://creativecommons.org/licenses/by/4.0/
+Game versions are excerpted, transcoded, loudness-adjusted and faded at the edges.
+Original compositions/recordings remain credited to the author.
+
+audio/music-home.mp3: Touching Moments Four - Melody — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100040
+https://creativecommons.org/licenses/by/4.0/
+
+audio/music-kitchen.mp3: Investigations — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100646
+https://creativecommons.org/licenses/by/4.0/
+
+audio/music-park.mp3: Carefree — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400037
+https://creativecommons.org/licenses/by/4.0/
+
+audio/music-shop.mp3: Bossa Antigua — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1700069
+https://creativecommons.org/licenses/by/4.0/
+
+audio/music-school.mp3: Meditation Impromptu 01 — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100163
+https://creativecommons.org/licenses/by/4.0/
+
+audio/music-village.mp3: Life of Riley — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400054
+https://creativecommons.org/licenses/by/4.0/
+
+audio/music-workshop.mp3: Pamgaea — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1300036
+https://creativecommons.org/licenses/by/4.0/
+
+audio/music-river.mp3: Dream Culture — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1300046
+https://creativecommons.org/licenses/by/4.0/
+
+audio/music-market.mp3: Sidewalk Shade — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1200103
+https://creativecommons.org/licenses/by/4.0/
 
 The 76 character voice clips use synthetic speech. They are not recordings
 of the character's real-life subject and do not clone that person's voice.
