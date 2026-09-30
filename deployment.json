@@ -1,11 +1,11 @@
 {
-  "version": "1.5.0",
-  "sourceCommit": "7869b08c37e3027379b9deb0087fdcd127160bbb",
+  "version": "1.5.1",
+  "sourceCommit": "74e0656c5d747bb20fc438594cd9d8c490c49485",
   "files": [
     {
-      "path": "assets/App-Dz5LJzDU.js",
+      "path": "assets/App-FxzDB1hY.js",
       "bytes": 458291,
-      "sha256": "0b4def2d34e76645deb62b463803a1e512c5890d701aad555d45876d78ab5329"
+      "sha256": "94c705999eaa111e48e2a538a999404723777cb8f4633c8d829fa0cfbe80ad7c"
     },
     {
       "path": "assets/avatar.png",
@@ -28,9 +28,9 @@
       "sha256": "181325b1e4ca4a518b128a18b055ad3cea9a23e854d6c1708d6f046d17b20953"
     },
     {
-      "path": "assets/index-Dz-ajb3v.js",
-      "bytes": 220916,
-      "sha256": "13d681ec1b4226a44272ebf3f65f345895114338e63a8624a0aa953458ac7dd3"
+      "path": "assets/index-DI0IyA_1.js",
+      "bytes": 221181,
+      "sha256": "c1271e279e118b9a65eb7351b9e678092f04fa48c8abb2ac937bcef58f07e8a6"
     },
     {
       "path": "assets/react-DvRSnW-F.js",
@@ -500,7 +500,7 @@
     {
       "path": "index.html",
       "bytes": 3742,
-      "sha256": "35ebc3034cfa12fdcb7bb47729287515823bfbffc03e80ddd532b95a75e7f953"
+      "sha256": "b95e9bc2e3142955e173853854deaa250b517fa182cec22d613e3f3c1735bb22"
     },
     {
       "path": "THIRD_PARTY_NOTICES.txt",
