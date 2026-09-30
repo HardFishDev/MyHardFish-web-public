@@ -1,11 +1,11 @@
 {
-  "version": "1.4.0",
-  "sourceCommit": "93b9d1d81b1498eaa2bc3018f488b8cc2d1e2a95",
+  "version": "1.4.1",
+  "sourceCommit": "5dc6299953e1e47004e72c96908c1163916409dd",
   "files": [
     {
-      "path": "assets/App-xyVDG7tZ.js",
+      "path": "assets/App-G-zf-uix.js",
       "bytes": 410449,
-      "sha256": "6d725384a2ccf23f2e669b0c333a9c7591b73921b39cf0dfcb1ac37042c1a7be"
+      "sha256": "892fbe6e54ee052f1602d45ba364856a7eae66324b77fa71b9f5159498412323"
     },
     {
       "path": "assets/avatar.png",
@@ -28,9 +28,9 @@
       "sha256": "f15eadc0a81a30655090960c78e0ce12538a86beee081e09cbecb83023072f4f"
     },
     {
-      "path": "assets/index-DoyhLWxG.js",
-      "bytes": 220781,
-      "sha256": "f3ed7d593ae848f5da2ab083477c95046c534a991e2515d77b750a1dd542791a"
+      "path": "assets/index-vYLnODGs.js",
+      "bytes": 220916,
+      "sha256": "60889194dae1599baf72c99144d673162487c4d679d2df5f4d702e437ee18d0a"
     },
     {
       "path": "assets/react-C0u2Iuo1.js",
@@ -500,7 +500,7 @@
     {
       "path": "index.html",
       "bytes": 3742,
-      "sha256": "e99d2ee9cbe280a94a458e1eccd134aa7c93966f68f03cfce3ae78f412ac0222"
+      "sha256": "9f73da459f1380b30f203c293043a1d134b21893629a7ca20c638fa9d10cba2c"
     },
     {
       "path": "THIRD_PARTY_NOTICES.txt",
