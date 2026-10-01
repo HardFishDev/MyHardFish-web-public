@@ -1,11 +1,16 @@
 {
-  "version": "1.5.1",
-  "sourceCommit": "74e0656c5d747bb20fc438594cd9d8c490c49485",
+  "version": "1.6.0",
+  "sourceCommit": "67fcd00c47a5628f8c44f987926c9941821ae2da",
   "files": [
     {
-      "path": "assets/App-FxzDB1hY.js",
-      "bytes": 458291,
-      "sha256": "94c705999eaa111e48e2a538a999404723777cb8f4633c8d829fa0cfbe80ad7c"
+      "path": "assets/App-BjWjeyvL.css",
+      "bytes": 11079,
+      "sha256": "c34d29e1090ac59df28c18e2da43c7ad378635874d710296c1b3667b8eed1411"
+    },
+    {
+      "path": "assets/App-DUCBnGd2.js",
+      "bytes": 511170,
+      "sha256": "60ce13d2940aace55eff374a4d0d7aee11514fc2e164352a1f3bba5e16be8441"
     },
     {
       "path": "assets/avatar.png",
@@ -13,14 +18,24 @@
       "sha256": "fd5020595653cecbc1d9f9565d7064cfb7bb892f6c8bbd2ddf96e2733f65be24"
     },
     {
+      "path": "assets/dbh-face-v2.png",
+      "bytes": 1708311,
+      "sha256": "3410e4c1d164de5dbb147131f55362729a8cae6260a3c069eee11a515b8268ed"
+    },
+    {
+      "path": "assets/dbh-hair-v2.png",
+      "bytes": 1842151,
+      "sha256": "908b100a60ebeb65b7e8fe23094e85440cac60b9548495cd7b9eb3f770286636"
+    },
+    {
       "path": "assets/fish-front.png",
       "bytes": 42066,
       "sha256": "14a86e9b2dc7971e246e962d1bace2814b36733184aa1f6afeba6c176f830277"
     },
     {
-      "path": "assets/icons-DScFRewP.js",
-      "bytes": 181311,
-      "sha256": "bae6cb1e6102e22de8831275b8734dc52de82bda6aec3253fa6b839fa4a9c82e"
+      "path": "assets/icons-D5LGkxT0.js",
+      "bytes": 190572,
+      "sha256": "41af6ac6197572aa9bbc6118d00bacfc74d5f1dd458dc9b727e291b00390b987"
     },
     {
       "path": "assets/index-CMywmS5j.css",
@@ -28,14 +43,14 @@
       "sha256": "181325b1e4ca4a518b128a18b055ad3cea9a23e854d6c1708d6f046d17b20953"
     },
     {
-      "path": "assets/index-DI0IyA_1.js",
-      "bytes": 221181,
-      "sha256": "c1271e279e118b9a65eb7351b9e678092f04fa48c8abb2ac937bcef58f07e8a6"
+      "path": "assets/index-DchHBJjj.js",
+      "bytes": 221274,
+      "sha256": "6b3c4fa27310b78c63fc6f8af28a0535a371828311380bb0eb3c89753d618830"
     },
     {
-      "path": "assets/react-DvRSnW-F.js",
+      "path": "assets/react-gUqr1j9N.js",
       "bytes": 3971,
-      "sha256": "7ec898a57e82b673fce93b032bef6e42f680a16ac9d0c7dc6d0d82af6f8c9177"
+      "sha256": "5bf00bd37551294b91db73a3549ec9324261112d98699463adbcfcc65893f3b8"
     },
     {
       "path": "assets/reference.jpg",
@@ -43,9 +58,9 @@
       "sha256": "0540eb60f4818caf5a93c2854de2103528cc686f55bbb10c770853d78fc169b7"
     },
     {
-      "path": "assets/three-DVGg9ars.js",
-      "bytes": 527606,
-      "sha256": "76018b000fd448c2744e2db00e82cd0eaeab0eee1d68dbe4955b00d57ba5a35a"
+      "path": "assets/three-9ikXX2gR.js",
+      "bytes": 542239,
+      "sha256": "d41a5329df76900a88c2f10f778b06e997754df2299208de3b744510c0c45cde"
     },
     {
       "path": "assets/world-home.webp",
@@ -500,7 +515,7 @@
     {
       "path": "index.html",
       "bytes": 3742,
-      "sha256": "b95e9bc2e3142955e173853854deaa250b517fa182cec22d613e3f3c1735bb22"
+      "sha256": "7aeebaea1ff0f625bc38883fd164ca8d3829ff47baefd01e6e15284407393431"
     },
     {
       "path": "THIRD_PARTY_NOTICES.txt",
