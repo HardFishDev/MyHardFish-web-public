@@ -1,6 +1,6 @@
 {
-  "version": "1.8.0",
-  "sourceCommit": "3593d43227af43dd2774f587483c1ed3143368b2",
+  "version": "1.8.1",
+  "sourceCommit": "fcf1ecc4e74b1f8fa79b3367f354baf2502000cf",
   "files": [
     {
       "path": "assets/App-BjWjeyvL.css",
@@ -8,19 +8,14 @@
       "sha256": "c34d29e1090ac59df28c18e2da43c7ad378635874d710296c1b3667b8eed1411"
     },
     {
-      "path": "assets/App-DezTDbJD.js",
-      "bytes": 549904,
-      "sha256": "cdee874dca6b320a8cf26af785fccfe42ecf034cb265e485a218b71902610f3f"
+      "path": "assets/App-V4fy7_eD.js",
+      "bytes": 526476,
+      "sha256": "cf6b959bdd1c4041fd89b6c0779cde3bc24950a9827c7e030147fb2ecb2d8277"
     },
     {
       "path": "assets/avatar.png",
       "bytes": 48315,
       "sha256": "fd5020595653cecbc1d9f9565d7064cfb7bb892f6c8bbd2ddf96e2733f65be24"
-    },
-    {
-      "path": "assets/dbh-hair-atlas.png",
-      "bytes": 2135674,
-      "sha256": "c26ac39348bbaf8b125d89fe3c612d477ee589445d2e46d990ba4d487de19f59"
     },
     {
       "path": "assets/fish-front.png",
@@ -33,9 +28,9 @@
       "sha256": "41af6ac6197572aa9bbc6118d00bacfc74d5f1dd458dc9b727e291b00390b987"
     },
     {
-      "path": "assets/index-Bd7fETOA.js",
-      "bytes": 221242,
-      "sha256": "6ecf31e606f6b6feede09eb043a1f934ad451b0ab094eab86abc7623d2d5ab62"
+      "path": "assets/index-cbQOzLcl.js",
+      "bytes": 221204,
+      "sha256": "fc1ef55b215ed2206d785f760c8f543c80ac29cc4dffcc8cb9cbb73a857663e8"
     },
     {
       "path": "assets/index-CMywmS5j.css",
@@ -53,9 +48,9 @@
       "sha256": "0540eb60f4818caf5a93c2854de2103528cc686f55bbb10c770853d78fc169b7"
     },
     {
-      "path": "assets/three-DeqyH24v.js",
-      "bytes": 542248,
-      "sha256": "295a428e50652647713a504e00cab63f51f4bcf36a4e6009298ed31273f257e5"
+      "path": "assets/three-C858F3_R.js",
+      "bytes": 539212,
+      "sha256": "923dfcef19d0f22c40e91a529d377f4fe10bef11a601600a9cd12222aa482da7"
     },
     {
       "path": "assets/world-home.webp",
@@ -510,7 +505,7 @@
     {
       "path": "index.html",
       "bytes": 3742,
-      "sha256": "ca84769d1e829f26380223f0f3b9c6d325ef40f09df855fcd34e9b5e4bee686d"
+      "sha256": "3e135c7396831d1a675efadd63c74fb9042815d665c72eb6207275835fe279d0"
     },
     {
       "path": "THIRD_PARTY_NOTICES.txt",
