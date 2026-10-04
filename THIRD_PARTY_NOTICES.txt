@@ -53,6 +53,15 @@ of the character's real-life subject and do not clone that person's voice.
 Interaction sound effects are original procedural Web Audio synthesis made
 for this project. No downloaded sound-effect samples are used.
 
+Cycling mini-game audio is loaded separately from town audio:
+- audio/cycling-pickup-metal.mp3, audio/cycling-pickup-chime.mp3 and
+  audio/cycling-hit.mp3 are original procedural synthesis generated for this
+  project by tools/audio/generate-cycling.py. No sampled recordings are used.
+- audio/cycling-voice-pickup.mp3 is synthetic Chinese speech generated with
+  the same Xiaoyi TTS style as the character clips. It is not a recording or
+  clone of the character's real-life subject.
+All four clips are distributed as MP3 files; cycling has no runtime TTS dependency.
+
 
 ========================================================================
 three 0.180.0
